@@ -1,2 +1,2 @@
 # ATM-System-CPP
-Simple ATM system using C++
+Simple ATM-system-using C++
